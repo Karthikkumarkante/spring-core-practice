@@ -1,0 +1,4 @@
+custom:
+  validation:
+     messages:
+        age: Age Should be in between {min} and {max}
